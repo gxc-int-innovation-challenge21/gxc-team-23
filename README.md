@@ -1,1 +1,1 @@
-# Champs2Be
+# Welcome to Team Champs2Be
