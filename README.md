@@ -2,7 +2,7 @@
   <a href="https://gxc-int-innovation-challenge21.github.io/gxc-team-23/">
     <img src="https://github.com/gxc-int-innovation-challenge21/gxc-team-23/blob/72470f584390af980a085272c925e9d5d1933652/01%20-%20Team%20&%20Ideation/Champs2Be-Logo.png" alt="Team logo" height="300">
   </a>
-<p align="middle"><a href="https://gxc-int-innovation-challenge21.github.io/gxc-team-23/">Our Website</a> | <a href="https://www.figma.com/file/Gk8E12tlZANyTBdmQMUHqA/Champs2Be">Our Prototype</a> | <a href="https://github.com/gxc-int-innovation-challenge21/gxc-team-23/wiki">Our Wiki</a></p>  
+<p align="middle"><a href="https://gxc-int-innovation-challenge21.github.io/gxc-team-23/">Website</a> | <a href="https://www.figma.com/file/Gk8E12tlZANyTBdmQMUHqA/Champs2Be">Prototype</a> | <a href="https://github.com/gxc-int-innovation-challenge21/gxc-team-23/wiki">Wiki</a></p>  
 <p align="middle"><em>The way to collective success lies in long individual improvement</em></p>
 
 </p>
