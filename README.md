@@ -18,6 +18,14 @@ We are team Champs2Be consisting of six students from Germany, Hungary, Bosnia a
 * Marc ([@mchennig](https://github.com/mchennig))
 
 # What we do
+<div align="center">
+  <img src="https://github.com/gxc-int-innovation-challenge21/gxc-team-23/blob/0139fcc89b0dbc27ddfc1e255b127f94312aa548/03%20-%20Prototype/Sprint%202/Prototype-2_Challenge-Intro.png" height="350" alt="Challenge intro screen" style="margin: 10px" /> 
+  <img src="https://github.com/gxc-int-innovation-challenge21/gxc-team-23/blob/0139fcc89b0dbc27ddfc1e255b127f94312aa548/03%20-%20Prototype/Sprint%202/Prototype-2_Home.png" height="350" alt="Home screen" style="margin: 10px"/> 
+  <img src="https://github.com/gxc-int-innovation-challenge21/gxc-team-23/blob/0139fcc89b0dbc27ddfc1e255b127f94312aa548/03%20-%20Prototype/Sprint%202/Prototype-2_Event-Challenge.png" height="350" alt="Event challenge screen" style="margin: 10px"/> 
+  <img src="https://github.com/gxc-int-innovation-challenge21/gxc-team-23/blob/12bcd62c23f12d5a166c6e0755b35078c0f2fffc/03%20-%20Prototype/Sprint%202/Prototype-2_ChampsForest.png" height="350" alt="Champsforest screen" style="margin: 10px" /> 
+  <img src="https://github.com/gxc-int-innovation-challenge21/gxc-team-23/blob/12bcd62c23f12d5a166c6e0755b35078c0f2fffc/03%20-%20Prototype/Sprint%202/Prototype-2_Contribution.png" height="350" alt="Contribution screen" style="margin: 10px" /> 
+</div>
+
 For our challenge giver we have developed a solution to encourage digital digital natives to see physical activity as integral part of their lives and motivate them to engage in challenges to have a positive impact on their lives, environment and the society in general.
 
 We've therefore conducted intensive research and analysis of our target group and developed the [prototype](https://www.figma.com/file/Gk8E12tlZANyTBdmQMUHqA/Champs2Be) of a sports app which provides a unique combination of personal challenges and habit creation with a competitive and event-based aspect specifically tailored to the preferences of the user. In addition the solution incorporates the wishes of our challenge giver to integrate large sport event andstrengthen social communities in the form of local sport clubs.
