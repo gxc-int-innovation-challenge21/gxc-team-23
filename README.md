@@ -26,16 +26,16 @@ We are team Champs2Be consisting of six students from Germany, Hungary, Bosnia a
   <img src="https://github.com/gxc-int-innovation-challenge21/gxc-team-23/blob/12bcd62c23f12d5a166c6e0755b35078c0f2fffc/03%20-%20Prototype/Sprint%202/Prototype-2_Contribution.png" height="350" alt="Contribution screen" style="margin: 10px" /> 
 </div>
 
-For our challenge giver we have developed a solution to encourage digital digital natives to see physical activity as integral part of their lives and motivate them to engage in challenges to have a positive impact on their lives, environment and the society in general.
+For our challenge giver we have developed a solution to encourage digital natives to see physical activity as integral part of their lives and motivate them to engage in challenges to have a positive impact on their lives, environment and the society in general.
 
-We've therefore conducted intensive research and analysis of our target group and developed the [prototype](https://www.figma.com/file/Gk8E12tlZANyTBdmQMUHqA/Champs2Be) of a sports app which provides a unique combination of personal challenges and habit creation with a competitive and event-based aspect specifically tailored to the preferences of the user. In addition the solution incorporates the wishes of our challenge giver to integrate large sport event andstrengthen social communities in the form of local sport clubs.
+We've therefore conducted intensive research and analysis of our target group and developed the [prototype](https://www.figma.com/file/Gk8E12tlZANyTBdmQMUHqA/Champs2Be) of a sports app which provides a unique combination of personal challenges and habit creation with a competitive and event-based aspect specifically tailored to the preferences of the user. In addition the solution incorporates the wishes of our challenge giver to integrate large sport event and strengthen social communities in the form of local sport clubs.
 
 Our prototype can be run in normal web browsers like Firefox, Google Chrome or Microsoft Edge by clicking the following link or copying its address in the top bar of the browser: https://www.figma.com/file/Gk8E12tlZANyTBdmQMUHqA/Champs2Be
 
 More information about our solution can also be found on our [website](https://gxc-int-innovation-challenge21.github.io/gxc-team-23).
 
 # How we do it
-During the ten weeks of the challenge we have conducted a lot of researched, conducted a lot of research following a process with the following steps:
+During the ten weeks of the challenge we have conducted a lot of research following a process with the following steps:
 
 * **Team building & Research**: During this phase we set up our team communication, got to know each other with the help of a [Team Canvas](https://github.com/gxc-int-innovation-challenge21/gxc-team-23/wiki/Team-Canvas) and started to develop a common understanding of the [problem and users](https://github.com/gxc-int-innovation-challenge21/gxc-team-23/wiki/Empathy-Map-and-Problem-Statement). In addition the first [research](https://github.com/gxc-int-innovation-challenge21/gxc-team-23/wiki/Challenge-and-Problem-Research) and [interviews](https://github.com/gxc-int-innovation-challenge21/gxc-team-23/wiki/Conducted-Interviews) were conducted to get to know our planned target group. 
 * **Ideation & Prototyping**: After understanding the problem, we iteratively created multiple low-fidelity prototypes in the form of a [storyboard](https://github.com/gxc-int-innovation-challenge21/gxc-team-23/wiki/Storyboard), collected feedback and turned this into our interactive [first prototype](https://github.com/gxc-int-innovation-challenge21/gxc-team-23/wiki/Sprint-1:-Prototype-App-Design). In a second iteration we collected more user feedback and refined our [second prototype](https://github.com/gxc-int-innovation-challenge21/gxc-team-23/wiki/Sprint-2:-Second-Prototype-Iteration) with it.
