@@ -42,3 +42,5 @@ During the ten weeks of the challenge we have conducted a lot of research follow
 * **Business Model**: In parallel to the creation of the prototype it was necessary to assess the viability of the idea. With the help of the [Business Model Canvas](https://github.com/gxc-int-innovation-challenge21/gxc-team-23/wiki/Business-Model-Canvas) it was possible to create a business model and focus our efforts on the core value delivered to our customers.
 * **Final Report & Reflection**: After the completion of our prototype, we summarized the work in the form of an [Elevator Pitch](https://github.com/gxc-int-innovation-challenge21/gxc-team-23/blob/main/05%20-%20Presentation%20%26%20Report/Elevetor-Pitch_PDF.pdf) and a full [15-Minute-Pitch](https://prezi.com/view/yCNgEl4Dc2LND4d6ShRo/) and reflected on [Lessons Learnt](https://github.com/gxc-int-innovation-challenge21/gxc-team-23/wiki/Team-Reflection).
 
+We hope you are as excited about our product now as we are! In case you are interested and want to find out more about it, you can also check out our repository and Wiki
+
