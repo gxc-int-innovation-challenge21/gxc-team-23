@@ -44,3 +44,6 @@ During the ten weeks of the challenge we have conducted a lot of research follow
 
 We hope you are as excited about our product now as we are! In case you are interested and want to find out more about it, you can also check out our repository and Wiki
 
+Our Github Page: https://gxc-int-innovation-challenge21.github.io/gxc-team-23/
+
+Our Wiki Page: https://github.com/gxc-int-innovation-challenge21/gxc-team-23/wiki
